@@ -1,0 +1,16 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "[dart]": { "editor.formatOnSave": true,
+    },
+    "dart.previewFlutterUiGuides": true,
+    "dart.openDevTools": "flutter",
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "emmet.excludeLanguages": [
+        "markdown", "jsx"
+    ],
+    "window.zoomLevel": 1,
+    "go.toolsManagement.autoUpdate": true
+}
